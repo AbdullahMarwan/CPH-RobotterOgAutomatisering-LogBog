@@ -1,21 +1,24 @@
 #include <Arduino.h>
 
-// put function declarations here:
-int myFunction(int, int);
+int r1Pin = D0;
+int y1Pin = D1;
+int g1Pin = D2;
+
+int r2Pin = D5;
+int y2Pin = D6;
+int g2Pin = D7;
 
 void setup()
 {
-  // put your setup code here, to run once:
-  int result = myFunction(2, 3);
+  pinMode(r1Pin, OUTPUT);
+  pinMode(y1Pin, OUTPUT);
+  pinMode(g1Pin, OUTPUT);
+  pinMode(r2Pin, OUTPUT);
+  pinMode(y2Pin, OUTPUT);
+  pinMode(g2Pin, OUTPUT);
 }
 
 void loop()
 {
-  // put your main code here, to run repeatedly:
-}
-
-// put function definitions here:
-int myFunction(int x, int y)
-{
-  return x + y;
+  digitalWrite(g)
 }
