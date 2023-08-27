@@ -8,7 +8,11 @@ Vi fik følgende til at løse opgaven:
 - 3 Gule dioder
 - 3 Røde dioder
 - 1 Breadboard
-- En masse ledninger
+- 1 Resistor
+- Mange ledninger
 ![image](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/f5bd499c-5455-4d92-836b-7a5044486702)
 
+## 27-9-2023
+I dag fik vi arbejdet videre på kodningen af vores projekt. Vi har brugt Enums samt switch case til at gøre trafik state nemmere at håndtere.
+Vi har lavet et sæt af fungerende trafiklys, den første loop fungerer som det skal, men når den skal gå igennem loopet igen lyser den i den forkerte ordre.
 
