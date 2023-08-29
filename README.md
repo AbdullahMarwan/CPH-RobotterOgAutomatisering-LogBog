@@ -21,5 +21,6 @@ Vi har lavet et sæt af fungerende trafiklys, den første loop fungerer som det 
 ## 29-9-2023
 I dag blev vi introduceret til Buttons samt ofte forkomne problemer ved brug af dem, som støj der registrer flere clicks end forventet. Vi har så fået connected en knap til vores breadboard så når vi trykker på knappen så lyser dioden ved siden af den og registrer et click i programmet
 
-![Uploading image.png…]()
+![image](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/8a77f112-461a-4e1a-b20d-dbf181cfa474)
+
 
