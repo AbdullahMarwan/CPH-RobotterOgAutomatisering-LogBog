@@ -27,8 +27,9 @@ I dag blev vi introduceret til Buttons samt ofte forkomne problemer ved brug af 
 Vi fik som opgave at connecte en servo motor og få den til at dreje ved hjælp af en potentiometer. Dette kan ses på følgende billede
 ![image](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/6272f3a9-1a37-4306-93b4-6fb1d79980b9)
 
-Her er en demonstration af hvordan vores little servo motor fungerer
-https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/f872a08a-9912-4eb0-adc1-dc88cf6ede3c
+Her er en demonstration af hvordan vores little servo motor fungerer (hvis linket virker ikke, så kig)
+
+https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/c6fa6182-3893-4a04-8074-4fb1962def94
 
 
 
