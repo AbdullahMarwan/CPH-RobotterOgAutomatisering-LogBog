@@ -45,3 +45,6 @@ Ved brug af OpenSCAD fik vi til opgave at lave en lille holder til vores NodeMCU
 
 ![IMG_1825](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/0ead7ef5-2cf8-49ac-a1bc-1bea92d6a363)
 
+## 12-9-2023 Introduktion til eksamensopgave
+Fra nu til eksamen (cirka 4-5 uger) skal vi som klasse lave en hel tog skinne system sammen. Vi vil blive delt ud i vores grupper, hvor hver gruppe skal fokusere på en specific del af systemet.
+
