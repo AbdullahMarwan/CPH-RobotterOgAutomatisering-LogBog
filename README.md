@@ -48,3 +48,6 @@ Ved brug af OpenSCAD fik vi til opgave at lave en lille holder til vores NodeMCU
 ## 12-9-2023 Introduktion til eksamensopgave
 Fra nu til eksamen (cirka 4-5 uger) skal vi som klasse lave en hel tog skinne system sammen. Vi vil blive delt ud i vores grupper, hvor hver gruppe skal fokusere på en specific del af systemet.
 
+## 19-9-2023 
+Vi har arbejdet med at lave en interface i OpenSCAD for at gøre det nemmere at genbruge et forrigt produkt og nemt kunne ændre størrelser på.
+
