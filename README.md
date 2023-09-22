@@ -1,5 +1,10 @@
 # CPH-RobotterOgAutomatisering-LogBog
 
+## Vigtige links
+
+- Fjernstyret Bil projekt: https://github.com/AbdullahMarwan/CPH-Sem4-RobotterOgAutomatisering-Bil
+
+
 ## 25-8-2023 (Trafik lys projekt)
 I dag fik vi Trafik projektet for. Opgaven går ud på at lave en fungerende traffiklys på et breadboard
 
