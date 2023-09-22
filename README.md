@@ -51,3 +51,13 @@ Fra nu til eksamen (cirka 4-5 uger) skal vi som klasse lave en hel tog skinne sy
 ## 19-9-2023 
 Vi har arbejdet med at lave en interface i OpenSCAD for at gøre det nemmere at genbruge et forrigt produkt og nemt kunne ændre størrelser på.
 
+## 22-9-2023 Bil projekt
+I dag er vi startet med et nyt projekt hvor vi har tænkt os at lave en bil som vi forhåbenligt kan få til at blive fjernstyret.
+Vi startede med at lave en hurtig skitse af hvordan bilen's lag skal se ud:
+
+![image](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/a318266c-124b-441e-af3f-fac806f4c655)
+
+Derefter lavede et nyt repository der indeholder koden til vores NodeMCU samt koden til OpenSCAD: https://github.com/AbdullahMarwan/CPH-Sem4-RobotterOgAutomatisering-Bil
+
+
+
