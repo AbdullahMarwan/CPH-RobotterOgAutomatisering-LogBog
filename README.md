@@ -67,9 +67,10 @@ Derefter lavede vi et nyt repository der indeholder koden til vores NodeMCU samt
 ## 3-10-2023 Bil projekt
 I dag skiftede vi over til Autodesk Fusion 360 og lavede en simpel box som skal indeholde NodeMCUen samt motoren.
 
+Følgende billed viser modellen i Autodesk Fusion 360:
 <img width="843" alt="image" src="https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/14f95483-39f1-45f7-a844-15a16cc56191">
 
-
+Her er boxen efter 3D Printning. Vi havde brugt boxen til at måle om vi er på rette vej.
 ![image](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/10528d3a-f71d-4495-b023-03647de9f3a6)
 
 
