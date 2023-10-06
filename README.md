@@ -82,6 +82,10 @@ Her er boxen efter 3D Printning. Vi havde brugt boxen til at måle om vi er på 
 Vi har udtænkt en ny form til vores bil hvor hjulene kan side tættere på spidserne, dette sikrer at komponenterne inde i boksen ville sidde bedre fast
 ![image](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/02295116-39c4-4ca6-9866-d5e4a0bfef3b)
 
+## 6-10-2023 Bil projekt
+I dag har vi arbejdet på at modelere hjulet af bilen.
+![image](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/03353809-e172-450b-a81f-99e72e250fff)
+
 
 
 
