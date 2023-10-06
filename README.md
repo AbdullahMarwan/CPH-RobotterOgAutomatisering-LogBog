@@ -62,7 +62,15 @@ Vi startede med at lave en hurtig skitse af hvordan bilen's lag skal se ud:
 
 ![image](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/a318266c-124b-441e-af3f-fac806f4c655)
 
-Derefter lavede et nyt repository der indeholder koden til vores NodeMCU samt koden til OpenSCAD: https://github.com/AbdullahMarwan/CPH-Sem4-RobotterOgAutomatisering-Bil
+Derefter lavede vi et nyt repository der indeholder koden til vores NodeMCU samt koden til OpenSCAD: https://github.com/AbdullahMarwan/CPH-Sem4-RobotterOgAutomatisering-Bil
+
+## 3-10-2023 Bil projekt
+I dag skiftede vi over til Autodesk Fusion 360 og lavede en simpel box som skal indeholde NodeMCUen samt motoren.
+
+<img width="843" alt="image" src="https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/14f95483-39f1-45f7-a844-15a16cc56191">
+
+
+![image](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/10528d3a-f71d-4495-b023-03647de9f3a6)
 
 
 
