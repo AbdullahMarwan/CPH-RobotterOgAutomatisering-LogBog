@@ -86,6 +86,12 @@ Vi har udtænkt en ny form til vores bil hvor hjulene kan side tættere på spid
 I dag har vi arbejdet på at modelere hjulet af bilen.
 ![image](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/03353809-e172-450b-a81f-99e72e250fff)
 
+## 10-10-2023 Bil projekt
+Vi har opdateret både hjulet samt kroppen af bilen. 
+
+![image](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/4359bf47-4c3c-42bf-8eee-903c73756b14)
+
+![image](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/253d2a64-9111-4440-83b3-69b22b9af67d)
 
 
 
