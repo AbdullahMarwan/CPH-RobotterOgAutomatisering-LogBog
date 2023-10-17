@@ -57,8 +57,6 @@ Vi startede med at lave en hurtig skitse af hvordan bilen's lag skal se ud:
 
 ![image](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/a318266c-124b-441e-af3f-fac806f4c655)
 
-Derefter lavede vi et nyt repository der indeholder koden til vores NodeMCU samt koden til OpenSCAD: https://github.com/AbdullahMarwan/CPH-Sem4-RobotterOgAutomatisering-Bil
-
 ## Dag 10 - Fra 26-9-2023 til 29-9-2023 Bil projekt
 I denne uge har vi arbejdet på at skitsere hvordan formen af vores bil skal se ud, både så det visuelt ser godt, men også så vi kan sikre at alle de nødvendige funktioner er tilstede
 ![image](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/68580c9f-0245-42f8-84a8-164f3ae4488d)
