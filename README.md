@@ -93,7 +93,10 @@ Vi har opdateret både hjulet samt kroppen af bilen.
 
 ![image](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/253d2a64-9111-4440-83b3-69b22b9af67d)
 
+## Dag 15 - 13-10-2023 Bil projekt
+I dag brugte vi 3D printerne på skolen til at 3D Printe bilens krop og hjul, derefter kunne vi sætte motoren, NodeMCUen samt ledningerne inde i kroppen og sætte hjulene på.
 
+![IMG_1916](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/fac7b07c-8d41-477e-aad4-25575bb01dba)
 
-
+![IMG_1915](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/ccf6a05e-6027-48a6-8660-54e35eff884e)
 
