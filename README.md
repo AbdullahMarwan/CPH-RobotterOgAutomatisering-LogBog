@@ -93,3 +93,9 @@ I dag brugte vi 3D printerne på skolen til at 3D Printe bilens krop og hjul, de
 
 ![IMG_1915](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/ccf6a05e-6027-48a6-8660-54e35eff884e)
 
+## Dag 16 - 13-10-2023 Bil projekt FINALE
+Her er en video demonstration af hvordan vores bil fungerer (hvis videon her ikke virker, så kig i Demonstration Videos/Bil Demonstration, videon)
+
+https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/47dd1a98-30f2-413e-9753-d3910b7826b7
+
+
