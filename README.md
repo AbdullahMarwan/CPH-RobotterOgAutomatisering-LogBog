@@ -1,10 +1,5 @@
 # CPH-RobotterOgAutomatisering-LogBog
 
-## Vigtige links
-
-- Fjernstyret Bil projekt: https://github.com/AbdullahMarwan/CPH-Sem4-RobotterOgAutomatisering-Bil
-
-
 ## Dag 1 - 25-8-2023 (Trafik lys projekt)
 I dag fik vi Trafik projektet for. Opgaven går ud på at lave en fungerende traffiklys på et breadboard
 
@@ -62,8 +57,6 @@ Vi startede med at lave en hurtig skitse af hvordan bilen's lag skal se ud:
 
 ![image](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/a318266c-124b-441e-af3f-fac806f4c655)
 
-Derefter lavede vi et nyt repository der indeholder koden til vores NodeMCU samt koden til OpenSCAD: https://github.com/AbdullahMarwan/CPH-Sem4-RobotterOgAutomatisering-Bil
-
 ## Dag 10 - Fra 26-9-2023 til 29-9-2023 Bil projekt
 I denne uge har vi arbejdet på at skitsere hvordan formen af vores bil skal se ud, både så det visuelt ser godt, men også så vi kan sikre at alle de nødvendige funktioner er tilstede
 ![image](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/68580c9f-0245-42f8-84a8-164f3ae4488d)
@@ -99,4 +92,10 @@ I dag brugte vi 3D printerne på skolen til at 3D Printe bilens krop og hjul, de
 ![IMG_1916](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/fac7b07c-8d41-477e-aad4-25575bb01dba)
 
 ![IMG_1915](https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/ccf6a05e-6027-48a6-8660-54e35eff884e)
+
+## Dag 16 - 13-10-2023 Bil projekt FINALE
+Her er en video demonstration af hvordan vores bil fungerer (hvis videon her ikke virker, så kig i Demonstration Videos/Bil Demonstration, videon)
+
+https://github.com/AbdullahMarwan/CPH-RobotterOgAutomatisering-LogBog/assets/99365019/47dd1a98-30f2-413e-9753-d3910b7826b7
+
 
